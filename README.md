@@ -98,5 +98,5 @@ Model yang sudah dibuat dapat dipakai dan di deploy menjadi aplikasi yang dapat 
 
 ## Deployment
 Model yang sudah dibuat dideploy menggunakan streamlit:
-Link aplikasi : [Klasifikasi beras](klasifikasi-beras-vika)
+Link aplikasi : [Klasifikasi beras](https://klasifikasi-jenis-beras-vika.streamlit.app/)
 
