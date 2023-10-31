@@ -49,6 +49,9 @@ Selanjutnya uraikanlah seluruh variabel atau fitur pada data. Sebagai contoh:
 - Class = Jenis Beras (1 = jasmine dan 0 = gonen) ```int64```
 
 ## Data Preparation
+Visualisasi kolom Class:
+![image](https://github.com/vikaf26/klasifikasi-jenis-beras/assets/149370346/faa2c300-9640-4200-ad1f-95030e1203d0)
+
 Sehubung dengan tipe data yang ada didalam dataset sudah sesuai dengan kebutuhan algoritma yang dipakai yaitu full numerik mana preparation yang dilakukan hanyalah penghapusan kolom yang tidak dipakai, yaitu id:
 ```
 df = df.drop(columns = 'id', axis = 1)
